@@ -4,14 +4,14 @@
 <head>
     <meta charset="utf-8">
     <title>Lei Ma | Physics Graduate Student</title>
-    <meta name="title" content="果壳网开放小组" />
-    <meta name="description" content="果壳网相关的一些开放数据、开放代码、开放知识" />
+    <meta name="title" content="Lei Ma | Physics Graduate Student" />
+    <meta name="description" content="Lei Ma Personal Page" />
     <!-- Based on one page scroll ( https://github.com/peachananr/onepage-scroll ). -->
 
 
     <!-- <link rel="shortcut icon" id="favicon" href="favicon.png"> -->
 
-    <meta name="author" content="Guokr Union">
+    <meta name="author" content="Lei Ma">
 
 
 
@@ -57,10 +57,9 @@
 
             <section class="name">
                 <div class="page_container">
-                    <h1 style="color:#000;">果壳网开放小组</h1>
-			<h3>果壳网的开放内容</h3>
+                    <h1 style="color:#000;">Lei Ma</h1>
                     <h3 style="display:block;;float:left;color:#000;">
-                        <a href="http://www.guokr.com" target="_blank" style="color:#000;">@果壳网</a></h3>
+                        <a href="http://panda.unm.edu/" target="_blank" style="color:#000;">Physics Graduate Student</a>@ UNM</h3>
                 </div>
                 <img src="img/wordcloud.jpg" alt="My Tags">
             </section>
